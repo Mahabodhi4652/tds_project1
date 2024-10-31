@@ -1,3 +1,3 @@
-1. I tried to code in google collab to scrap and clean the data .
-2. There is many surprising facts I have found while data analysis.
-3. api timeout is biggest issue I have faced , be patient because you have to wait long to run the code .
+1. Using Google Colab and Python codes, I scraped the data from the GitHub API to identify Sydney-based exploiter with over 100 follower, and then stored user and repository information in users.csv and repositories.csv.
+2. Surprisingly, the almost popular task was not always the one having the most forks, portray a difference between popularity and collaboration.
+3. Advice for developer: focus on projection that encourages others to fork and contribute for this may advance an impregnable community than follower turn alone.
